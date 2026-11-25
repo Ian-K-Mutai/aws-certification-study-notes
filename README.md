@@ -1,6 +1,6 @@
 # AWS Certification Study Notes
 
-Independent study notes for AWS certification candidates, cloud engineers and security practitioners. This project is not affiliated with, sponsored by or endorsed by Amazon Web Services.
+Independent study notes for AWS certification candidates, cloud engineers and security practitioners.
 
 - [AWS Certified Solutions Architect – Associate (SAA-C03)](saa-c03/README.md)
 - [AWS Certified Security – Specialty (SCS-C03)](scs-c03/README.md)
@@ -23,3 +23,7 @@ Independent study notes for AWS certification candidates, cloud engineers and se
 - [Glossary](resources/glossary.md)
 - [Contributing](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
+
+## Disclaimer
+
+This independent project is not affiliated with, sponsored by or endorsed by Amazon Web Services. AWS and AWS Certification names are used to identify the services and certifications discussed. The examples and practice questions are educational and are not official AWS exam questions. Consult the current AWS exam guides and service documentation for exam scope and service behaviour.
